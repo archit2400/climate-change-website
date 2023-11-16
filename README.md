@@ -132,6 +132,6 @@
         <div class="footer">
             © 2023 Climate Change Website. All rights reserved.
         </div>
-
-</body>
-</html>
+        </body>
+        </html>
+        
